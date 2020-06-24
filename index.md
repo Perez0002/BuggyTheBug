@@ -1,37 +1,65 @@
-## Welcome to GitHub Pages
+# Say hi to Buggy
 
-You can use the [editor on GitHub](https://github.com/Perez0002/TestWebsite/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### *Buggy* is a ***bug***. No one knows what kind of ***bug*** *Buggy* is, but *Buggy* is a ***bug***
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### *Buggy*'s favorite *color* is **not** `blue`. It ***is***, however, kind of `yellow`.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Perez0002/TestWebsite/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Is there some sort of meaning to *Buggy* that perhaps I am not telling y**o**u? I guess y**o**u have to find out. I don't know if *Buggy* wants y**o**u to find *Buggy* but here is a rare image of [*Buggy* the ***bug***](https://docs.google.com/drawings/d/17pbcpGFye3plvmwDixXkNRK9DIEnitMxfBC-OyIfjzk/edit?usp=sharing).
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+###### By the way
+###### This is a top secret website *Buggy* doesn't know about. If *Buggy* the ***bug*** ever finds out that I made a (poorly designed) website, he'd probably ``` dang it i forgot ``` 
