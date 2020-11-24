@@ -7,4 +7,4 @@
 ### Is there some sort of meaning to *Buggy* that perhaps I am not telling y**o**u? I guess y**o**u have to find out. I don't know if *Buggy* wants y**o**u to find *Buggy*.
 
 By the way
-This is a top secret website *Buggy* doesn't know about. If *Buggy* the ***bug*** ever finds out that I made a (poorly designed) website, he'd probably ``` dang it i forgot more spaces to make this line a secret ``` 
+This is a top secret website *Buggy* doesn't know about. If *Buggy* the ***bug*** ever finds out that I made a (poorly designed) website, he'd probably ``` dang it i forgot more spaces to make this line look more secretive. ``` do something mean to the owner of this site *(oh no thats **me**)*
